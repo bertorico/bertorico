@@ -17,7 +17,8 @@ using **n8n**, **Python**, and **AI**.
 |---|---|
 | [n8n-lead-capture-ai](link) | Lead capture pipeline with AI scoring + Telegram approval |
 | [n8n-uptime-monitor](link) | Website monitoring with alerting and response time logging |
-| [n8n-invoice-parser](link) | Italian XML invoice (FatturaPA) parser with auto-categorization |
+| [n8n-invoice-parser](link) | Italian XML invoice (FatturaPA) parser with auto-categorization |.
+| [n8n-uptime-monitor](https://github.com/bertorico/n8n-uptime-monitor) | Monitoring State of Server
 
 ### My stack
 
