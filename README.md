@@ -15,6 +15,7 @@ using **n8n**, **Python**, and **AI**.
 
 | Project | Description |
 |---|---|
+| [fatture-bertorico](https://github.com/bertorico/fattura-bertorico/) | Web application for creating, managing, and sending Italian electronic invoices to SDI in React 19, ApiREST, Postgress 
 | [n8n-lead-capture-ai](https://github.com/bertorico/n8n-lead-capture-ai-enrichment) | Lead capture pipeline with AI scoring + Telegram approval |
 | [n8n-uptime-monitor](https://github.com/bertorico/n8n-uptime-monitor) | Website monitoring with alerting and response time logging |
 | [n8n-invoice-parser](https://github.com/bertorico/n8n-fatturapa-invoice-parser) | Italian XML invoice (FatturaPA) parser with auto-categorization |.
